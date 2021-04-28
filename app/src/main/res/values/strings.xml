@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bi-Z-College</string>
+    <string name="title_activity_add">Tambah Jadwal</string>
+    <string name="title_activity_update">Update Jadwal</string>
+    <string name="title_activity_detail">List Jadwal</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Jadwal</string>
+    <string name="title_notifications">Setting</string>
+
+    <string name="title_menu_delete">Delete</string>
+    <string name="title_menu_save">Save</string>
+
+    <string name="notification_title">AYO KULIAH GUYS!</string>
+
+    <array name="hari">
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumat</item>
+        <item>Sabtu</item>
+    </array>
+</resources>
